@@ -34,9 +34,9 @@ ___
 <img src = "https://user-images.githubusercontent.com/91650008/144731640-5d044429-6040-48c6-9af8-e005f0324029.JPG" width = "720">
 
 
-- LED（透明→緑）:  22（GPIO25）
-- LED（黄）:  16（GPIO23）
-- LED（赤）:  18（GPIO24）
+- LED1（透明→緑）:  22（GPIO25）
+- LED2（黄）:  16（GPIO23）
+- LED3（赤）:  18（GPIO24）
 - 電子ブザー :  37（GPIO26）
 
 ___
@@ -70,3 +70,42 @@ $ make clean
 ```
 ___
 
+#### 【実行】
+
+ ※ページ下に動作時の動画があります。
+ 
+##### LED1を点灯させる
+```
+$ echo 1 > /dev/myled0
+```
+
+
+##### LED2を点灯させる
+```
+$ echo 2 > /dev/myled0
+```
+
+
+##### LED3を点灯させる
+```
+$ echo 3 > dev/myled0
+```
+
+
+##### 電子ブザーを鳴らす
+```
+$ echo 4 > dev/myled0
+```
+
+
+##### すべての動作をやめさせる
+```
+$ echo 0 > dev/myled0
+```
+
+
+##### 信号機のように点灯、消灯させる
+```
+$ echo 5 > dev/myled0
+```
+___
