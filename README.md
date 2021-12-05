@@ -10,7 +10,7 @@ ___
 
 - Raspberry Pi 3 Model B
 
-- OS : ubuntu 20.04 server
+- OS  :  ubuntu 20.04 server
  
 ___
 
@@ -34,9 +34,9 @@ ___
 <img src = "https://user-images.githubusercontent.com/91650008/144731640-5d044429-6040-48c6-9af8-e005f0324029.JPG" width = "720">
 
 
-- LED（透明→緑）: 22（GPIO25）
-- LED（黄）: 16（GPIO23）
-- LED（赤）: 18（GPIO24）
-- 電子ブザー : 37（GPIO26）
+- LED（透明→緑）:  22（GPIO25）
+- LED（黄）:  16（GPIO23）
+- LED（赤）:  18（GPIO24）
+- 電子ブザー :  37（GPIO26）
 
 
