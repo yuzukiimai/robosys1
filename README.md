@@ -121,4 +121,4 @@ ___
 ___
 
 ## ライセンス
-  [GNU General Public License v3.0]
+  [GNU General Public License v3.0](https://github.com/yuzukiimai/robosys1/blob/master/COPYING)
