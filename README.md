@@ -26,5 +26,5 @@ ___
 ## 配線（pin情報）
 
 
-<img src="https://user-images.githubusercontent.com/91650008/144731137-d5292cc5-9a97-47b5-8a50-f154af91997f.JPG" width = "200">
+<img src="https://user-images.githubusercontent.com/91650008/144731137-d5292cc5-9a97-47b5-8a50-f154af91997f.JPG" width = "150">
 
