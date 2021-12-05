@@ -116,7 +116,7 @@ $ echo 5 > dev/myled0
 ___
 
 
-## 動画
+## デモ動画
 
 https://youtu.be/fcmh2hfk0dk
 
