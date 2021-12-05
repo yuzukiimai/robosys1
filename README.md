@@ -44,5 +44,17 @@ ___
 
 ## 使用方法
 
+以下のコマンドを実行してください。
+
 ```
-$ git clone 
+$ git clone https://github.com/yuzukiimai/robosys1.git
+
+$ cd robosys1
+
+$ make
+
+$ sudo insmod myled.ko
+
+$ sudo chmod 666 /dev/myled0
+```
+
