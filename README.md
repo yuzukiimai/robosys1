@@ -47,6 +47,11 @@ ___
 
 - 回路図
 
+<img src  = "https://user-images.githubusercontent.com/91650008/144912159-ec126848-0681-443c-99b2-59fa71b34b65.png" width = "720">
+
+___
+
+
 
 
 ## 使用方法
