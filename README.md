@@ -23,17 +23,22 @@ ___
 - ジャンパー線（オス-メス）× 8
 ___
 
-## 配線（pin情報）
-
-- pin情報
-<img src="https://user-images.githubusercontent.com/91650008/144731137-d5292cc5-9a97-47b5-8a50-f154af91997f.JPG" width = "720">
+## 回路（pin情報）
 
 
+- 回路図
+
+<img src  = "https://user-images.githubusercontent.com/91650008/144912159-ec126848-0681-443c-99b2-59fa71b34b65.png" width = "720">
 
 
 - 配線図
 
 <img src = "https://user-images.githubusercontent.com/91650008/144731640-5d044429-6040-48c6-9af8-e005f0324029.JPG" width = "720">
+
+
+- pin情報
+ 
+<img src="https://user-images.githubusercontent.com/91650008/144731137-d5292cc5-9a97-47b5-8a50-f154af91997f.JPG" width = "720">
 
 
 - LED1（透明→緑）:  22（GPIO25）
@@ -42,15 +47,6 @@ ___
 - 電子ブザー :  37（GPIO26）
 
 ___
-
-## 回路
-
-- 回路図
-
-<img src  = "https://user-images.githubusercontent.com/91650008/144912159-ec126848-0681-443c-99b2-59fa71b34b65.png" width = "720">
-
-___
-
 
 
 
