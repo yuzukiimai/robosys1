@@ -43,10 +43,8 @@ ___
 
 
 - pin情報
- 
-<img src="https://user-images.githubusercontent.com/91650008/144731137-d5292cc5-9a97-47b5-8a50-f154af91997f.JPG" width = "720">
-
-
+  
+  
 - LED1（透明→緑）:  22（GPIO25）
 
 - LED2（黄）:  16（GPIO23）
